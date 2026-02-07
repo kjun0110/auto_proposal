@@ -77,5 +77,8 @@
     "postcss": "latest",
     "tailwindcss": "4.1.12",
     "typescript": "latest"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["sharp", "unrs-resolver"]
   }
 }
